@@ -23,7 +23,7 @@ local function has_usage_data(dict)
 end
  
 -- Get commands for that plugin
-local function plugin_helpssssssssss(name,number,requester)
+local function plugin_help(name,number,requester)
   local plugin = ""
   if number then
     local i = 0
@@ -95,8 +95,8 @@ local function plugin_helpssssssssss(name,number,requester)
 end
  
  
--- !helpssssssssss command
-local function telegram_helpssssssssss()
+-- !help command
+local function telegram_help()
   local i = 0
   local text = "Plugins list:\n\n"
   -- Plugins names
@@ -108,21 +108,21 @@ local function telegram_helpssssssssss()
     text = text..i..'. '..name..'\n'
     end
   end
-  text = text..'\n'..'There are '..i..' plugins helpssssssssss available.'
-  text = text..'\n'..'Write "!helpssssssssss [plugin name]" or "!helpssssssssss [plugin number]" for more info.'
-  text = text..'\n'..'Or "!helpssssssssss all" to show all info.'
+  text = text..'\n'..'There are '..i..' plugins help available.'
+  text = text..'\n'..'Write "!help [plugin name]" or "!help [plugin number]" for more info.'
+  text = text..'\n'..'Or "!help all" to show all info.'
   return text
 end
  
  
--- !helpssssssssss all command
-local function helpssssssssss_all(requester)
+-- !help all command
+local function help_all(requester)
   local ret = ""
   for name in pairsByKeys(plugins) do
     if plugins[name].hidden then
       name = nil
     else
-      ret = ret .. plugin_helpssssssssss(name, nil, requester)
+      ret = ret .. plugin_help(name, nil, requester)
     end
   end
   return ret
@@ -138,19 +138,19 @@ local function run(msg, matches)
   else
     requester = "user"
   end
-  if matches[1] == "!helpssssssssss" then
-    return telegram_helpssssssssss()
-  elseif matches[1] == "!helpssssssssss all" then
-    return helpssssssssss_all(requester)
+  if matches[1] == "!help" then
+    return telegram_help()
+  elseif matches[1] == "!help all" then
+    return help_all(requester)
   else
     local text = ""
     if tonumber(matches[1])  then
-      text = plugin_helpssssssssss(nil, matches[1], requester)
+      text = plugin_help(nil, matches[1], requester)
     else
-      text = plugin_helpssssssssss(matches[1], nil, requester)
+      text = plugin_help(matches[1], nil, requester)
     end
     if not text then
-      text = telegram_helpssssssssss()
+      text = telegram_help()
     end
     return text
   end
@@ -162,7 +162,7 @@ return {
     "!helps: Show list of plugins.",
     "!helps all: Show all commands for every plugin.",
     "!helps [plugin name]: Commands for that plugin.",
-    "!helps [number]: Commands for that plugin. Type !helpssssssssss to get the plugin number."
+    "!helps [number]: Commands for that plugin. Type !help to get the plugin number."
   },
   patterns = {
     "^!helps$",
@@ -173,3 +173,4 @@ return {
 }
  
 end
+
