@@ -1,8 +1,0 @@
-[ Fri May  6 00:05:47 2016 ]=>  Arshia_Arshia [98120772] Used /help
- 
-[ Fri May  6 00:05:52 2016 ]=>  Arshia_Arshia [98120772] Used /help
- 
-[ Fri May  6 00:05:55 2016 ]=>  Arshia_Arshia [98120772] used /id 
- 
-[ Fri May  6 00:05:56 2016 ]=>  Arshia_Arshia [98120772] added group [ 145709284 ]
- 

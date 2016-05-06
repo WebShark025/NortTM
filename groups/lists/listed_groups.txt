@@ -1,6 +1,0 @@
-List of Groups:
-*Use #join (ID) to join*
-
-1 - GP - SU
-(ID: 1057398997)
-
