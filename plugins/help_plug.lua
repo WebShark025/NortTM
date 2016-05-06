@@ -109,8 +109,8 @@ local function telegram_help()
     end
   end
   text = text..'\n'..'There are '..i..' plugins help available.'
-  text = text..'\n'..'Write "!help [plugin name]" or "!help [plugin number]" for more info.'
-  text = text..'\n'..'Or "!help all" to show all info.'
+  text = text..'\n'..'Write "!helps [plugin name]" or "!helps [plugin number]" for more info.'
+  text = text..'\n'..'Or "!helps all" to show all info.'
   return text
 end
  
@@ -138,9 +138,9 @@ local function run(msg, matches)
   else
     requester = "user"
   end
-  if matches[1] == "!help" then
+  if matches[1] == "!helps" then
     return telegram_help()
-  elseif matches[1] == "!help all" then
+  elseif matches[1] == "!helps all" then
     return help_all(requester)
   else
     local text = ""
