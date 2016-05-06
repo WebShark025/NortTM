@@ -1,7 +1,7 @@
 local function run(msg, matches)
-if is_momod(msg) and msg.to.type == "chat" then        
+if is_momod(msg) and msg.to.type == "user" then        
   local text = [[
-متنی تعریف نشده است 
+متنی برای نشان دادن موجود نیست.
 ]]
     send_msg("chat#id"..msg.to.id, text, ok_cb, false)
   end
@@ -12,7 +12,7 @@ return {
     "ownerhelp: Show help for owners.",
   },
   patterns = {
-    "^([!/#]help_all)$",
+    "^([!/#]help_pv)$",
   }, 
   run = run,
 }
