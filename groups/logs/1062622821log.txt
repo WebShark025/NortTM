@@ -1,0 +1,26 @@
+[ Wed May  4 16:24:07 2016 ]=>  « ψεβShαζκ » [98120772] added SuperGroup
+ 
+[ Wed May  4 16:24:14 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:33:09 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:33:38 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:35:28 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:35:32 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:35:38 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:38:10 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:39:08 2016 ]=>  « ψεβShαζκ » [98120772] set SuperGroup description to: Test Nort Super GP
+ 
+[ Wed May  4 16:39:17 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:41:10 2016 ]=>  « ψεβShαζκ » [98120772] obtained id for: [152065669]
+ 
+[ Wed May  4 16:42:57 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:43:52 2016 ]=>  Deleted_account [152065669] Used /superhelp
+ 

@@ -1,0 +1,38 @@
+[ Wed May  4 15:16:38 2016 ]=>  « ψεβShαζκ » [98120772] added SuperGroup
+ 
+[ Wed May  4 15:16:42 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:21:23 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:21:25 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:38:53 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:41:12 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:57:37 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:06:55 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:08:08 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:09:14 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:13:38 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:16:06 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup info
+ 
+[ Wed May  4 16:16:15 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup info
+ 
+[ Wed May  4 16:16:35 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:16:37 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:16:41 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 16:20:32 2016 ]=>  « ψεβShαζκ » [98120772] left via kickme
+ 
+[ Wed May  4 16:21:35 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 16:21:46 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 

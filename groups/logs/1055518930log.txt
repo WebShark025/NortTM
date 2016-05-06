@@ -1,0 +1,136 @@
+[ Tue May  3 20:01:20 2016 ]=>  «_ψεβShαζκ_» [98120772] used /nortteam 
+ 
+[ Tue May  3 20:05:40 2016 ]=>  «_ψεβShαζκ_» [98120772] used /nortteam 
+ 
+[ Tue May  3 20:06:11 2016 ]=>  « ψεβShαζκ » [98120772] added Log_SuperGroup
+ 
+[ Tue May  3 20:06:27 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:09:28 2016 ]=>  « ψεβShαζκ » [98120772] added SuperGroup
+ 
+[ Tue May  3 20:09:47 2016 ]=>  « ψεβShαζκ » [98120772] set SuperGroup to: mute All
+ 
+[ Tue May  3 20:09:53 2016 ]=>  « ψεβShαζκ » [98120772] set SuperGroup to: unmute All
+ 
+[ Tue May  3 20:09:57 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup info
+ 
+[ Tue May  3 20:10:05 2016 ]=>  « ψεβShαζκ » [98120772] requested ID for: @NORT_ADMIN
+ 
+[ Tue May  3 20:14:28 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 20:18:50 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 20:18:51 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:18:52 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:19:13 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:19:15 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 20:28:37 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:40:40 2016 ]=>  «_ψεβShαζκ_» [98120772] used /nortteam 
+ 
+[ Tue May  3 20:45:05 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:48:27 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 20:49:27 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 20:51:10 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 21:14:16 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 21:14:21 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 21:15:49 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Tue May  3 21:15:50 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Tue May  3 21:15:55 2016 ]=>  « ψεβShαζκ » [98120772] started setting new SuperGroup photo
+ 
+[ Tue May  3 21:16:10 2016 ]=>  « ψεβShαζκ » [98120772] set new SuperGroup photo
+ 
+[ Tue May  3 21:25:38 2016 ]=>  « ψεβShαζκ » [98120772] set SuperGroup description to: Wtf
+ 
+[ Tue May  3 21:26:46 2016 ]=>  « ψεβShαζκ » [98120772] deleted a message by reply
+ 
+[ Tue May  3 21:26:53 2016 ]=>  Deleted account [152065669] requested SuperGroup ID
+ 
+[ Tue May  3 21:27:06 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:12:15 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:12:17 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:05 2016 ]=>  « ψεβShαζκ » [98120772] requested SuperGroup ID
+ 
+[ Wed May  4 15:13:06 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:12 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:19 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:25 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:26 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:34 2016 ]=>  Deleted account [152065669] requested SuperGroup ID
+ 
+[ Wed May  4 15:13:35 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:37 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:39 2016 ]=>  «_ψεβShαζκ_» [98120772] Used /superhelp
+ 
+[ Wed May  4 15:13:43 2016 ]=>  Deleted account [152065669] requested SuperGroup ID
+ 
+[ Wed May  4 15:14:04 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:16 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:20 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:25 2016 ]=>  Deleted account [152065669] requested SuperGroup ID
+ 
+[ Wed May  4 15:14:27 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:29 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:30 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:32 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:36 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:38 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:39 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:40 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:48 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:49 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:52 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:14:59 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:03 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:03 2016 ]=>  Deleted account [152065669] left via kickme
+ 
+[ Wed May  4 15:15:04 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:24 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:41 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:46 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:47 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
+[ Wed May  4 15:15:51 2016 ]=>  «ψεβShαζκ» [98120772] banned user is talking !
+ 
