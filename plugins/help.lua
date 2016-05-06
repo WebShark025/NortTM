@@ -151,7 +151,7 @@ return {
     "ownerhelp: Show help for owners.",
   },
   patterns = {
-    "^([!/#]help)$",
+    "^([!/#]help_all)$",
   }, 
   run = run,
 }
