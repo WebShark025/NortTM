@@ -1,8 +1,8 @@
 local function run(msg, matches)
-if is_momod(msg) and msg.to.type == "" then        
+if is_member(msg) and msg.to.type == "" then        
   local text = [[
 💠 دستورات ربات ضد اسپم نورت 💠
-
+----------------------------
 🔹لیست راهنمای پلاگین ها 
 /helps
 
