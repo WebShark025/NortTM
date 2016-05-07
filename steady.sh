@@ -42,8 +42,8 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=DBTeam  # You can put here other bots. Also you can change it to run more than one bot in the same server.
-RELOADTIME=10  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
+BOT=NortTM  # You can put here other bots. Also you can change it to run more than one bot in the same server.
+RELOADTIME=120  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
 
 
 function tmux_mode {
@@ -100,6 +100,7 @@ echo -e "\033[38;5;208m     |    \|  _ )_   _|___ ____   __  __      \033[0;00m"
 echo -e "\033[38;5;208m     | |_  )  _ \ | |/ .__|  _ \_|  \/  |     \033[0;00m"
 echo -e "\033[38;5;208m     |____/|____/ |_|\____/\_____|_/\/\_|     \033[0;00m"
 echo -e "\033[38;5;208m                                              \033[0;00m"
+echo =e "\033[38;5;208m   NortTeam Steady.sh Powered by DBTEAM bot.  \033[0;00m"
 
 sleep 1.5
 echo -e "$bld$f4 CHECKING PROCESSES...$rst"
