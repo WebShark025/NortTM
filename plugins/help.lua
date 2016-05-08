@@ -1,11 +1,8 @@
-do
-
-
-function run(msg, matches)
-
-  return [[ 💠 دستورات ربات ضد اسپم نورت 💠
-------------------------------
-
+local function run(msg, matches)
+if msg.to.type == "chat" or "channel" or "user"  then
+  local text = [[
+💠 دستورات ربات ضد اسپم نورت 💠
+—------------------------—
 🔹لیست راهنمای پلاگین ها 
 /helps
 
@@ -15,27 +12,19 @@ function run(msg, matches)
 🔹 لیست راهنمای خصوصی 
 /help_pv
 
-------------------------------
-@nortteam Anti Spam Nort ]]
-
-end
-
-
+—----------------------------
+@nortteam Anti Spam Nort
+]]
+    return text
+  end
+end 
 return {
-
-  description = "", 
-
-  usage = "",
-
+  description = "Help owner.  ", 
+  usage = {
+    "ownerhelp: Show help for owners.",
+  },
   patterns = {
-
-    "^[!#/](help)$"
-
+    "^([!/#]help)$",
   }, 
-
-  run = run 
-
+  run = run,
 }
-
-
-end

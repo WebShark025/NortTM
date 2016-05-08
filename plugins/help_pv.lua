@@ -1,9 +1,9 @@
 local function run(msg, matches)
-if is_momod(msg) and msg.to.type == "user" then        
+if msg.to.type == "user" then        
   local text = [[
 متنی برای نشان دادن موجود نیست.
 ]]
-    send_msg("chat#id"..msg.to.id, text, ok_cb, false)
+    return text
   end
 end 
 return {
