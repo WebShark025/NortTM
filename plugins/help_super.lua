@@ -124,6 +124,14 @@ if is_momod(msg) and msg.to.type == "channel" then
 💢 !res [username]
 دریافت نام و آیدی یک یوزر با یوزرنیم (مثلا @UserName)
 
+💢 !addword [word]
+سانسور کردن یک کلمه
+
+💢 !remword [word]
+پاک کردن یک کلمه از لیست سانسورها
+
+💢 !badwords 
+لیست کلمات سانسور شده. 
 
 💢 !log
 دریافت لاگ گروه
