@@ -1,7 +1,7 @@
 # NortTM v2.0.5
 Official NortTeam antispam bot. 
 Based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot/) . 
-Special thanks to: AmirSBSS - ParsaAlemi - MohammadTicTic - Armin_Dev &amp; everyone who helped us in this way.
+Special thanks to: AmirSBSS - ParsaAlemi - MohammadTicTic - Armin_Dev - MohammadArak &amp; everyone who helped us in this way.
 
 
 [![https://telegram.me/WebShark25](https://img.shields.io/badge/💬_Telegram-WebShark25-blue.svg)](https://telegram.me/WebShark25)
