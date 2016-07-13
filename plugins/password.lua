@@ -8,7 +8,7 @@ local function set_pass(msg, pass, id)
   local name = string.gsub(msg.to.print_name, '_', '')
   if hash then
     redis:hset(hash, pass, id)
-      return send_large_msg("channel#id"..msg.to.id, "Password Of SuperGroup/Group : ["..name.."] Has Been Set To:\n> "..pass.."\n\nNow User Can Join in pm (Send Msg To @Anti_spam_nort In PV) By\n\n#join "..pass.." ", ok_cb, true)
+      return send_large_msg("channel#id"..msg.to.id, "رمز گروه/سوپر گروه : ["..name.."] تغییر داده شد به:\n> "..pass.."\n\nحالا میتوانید با ارسال کامند \n#join "..pass.." در خصوصی بات, وارد گروه شوید. ", ok_cb, true)
   end
 end
 
@@ -20,7 +20,7 @@ end
 local function show_add(cb_extra, success, result)
   vardump(result)
     local receiver = cb_extra.receiver
-    local text = "I Added You To > "..result.title
+    local text = "شما ادد شدید به: "..result.title
     send_large_msg(receiver, text)
 end
 local function added(msg, target)
@@ -32,7 +32,7 @@ local function run(msg, matches)
     local pass = matches[2]
     local id = msg.to.id
     if is_used(pass) then
-      return "Sorry, This pass is already taken."
+      return "این رمز قبلا استفاده شده است. "
     end
     redis:del("setpass:", id)
     return set_pass(msg, pass, id)
@@ -43,19 +43,19 @@ local function run(msg, matches)
     local id = redis:hget(hash, pass)
     local receiver = get_receiver(msg)
     if not id then
-      return "*Error 404\n\n> Could not find a group with this pass\n> Maby the pass has been changed"
+      return "مشکل: گروهی با این رمز پیدا نشد. شاید رمز گروه تغییر کرده یا رمز را اشتباه وارد کرده اید"
     end
     channel_invite("channel#id"..id, "user#id"..msg.from.id, ok_cb, false) 
   return added(msg, id)
   else
-  return "I could not added you to"..string.gsub(msg.to.id.print_name, '_', ' ')
+  return "متاسفم, اما من نتوانستم شمارو ادد کنم به "..string.gsub(msg.to.id.print_name, '_', ' ')
   end
   if matches[1] == "pass" then
    local hash = 'setpass:'
    local chat_id = msg.to.id
    local pass = redis:hget(hash, channel_id)
    local receiver = get_receiver(msg)
-   send_large_msg(receiver, "Password for SuperGroup/Group : ["..msg.to.print_name.."]\n\nPass > "..pass)
+   send_large_msg(receiver, "رمز گروه/سوپر گروه : ["..msg.to.print_name.."]\n\nرمز: > "..pass)
  end
 end
 
