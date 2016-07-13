@@ -18,7 +18,7 @@ local function run(msg, matches)
   local name = string.sub(matches[1], 1, 50)
   local value = string.sub(matches[2], 1, 1000)
   local name1 = user_print_name(msg.from)
-  savelog(msg.to.id, name1.." ["..msg.from.id.."] saved ["..name.."] as > "..value )
+  savelog(msg.to.id, name1.." ["..msg.from.id.."] ذخیره شد ["..name.."] بنام: "..value )
   local text = save_value(msg, name, value)
   return text
 end
