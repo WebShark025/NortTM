@@ -1,4 +1,10 @@
 # NortTM v2.0.6
+
+---
+PROJECT IS NOT MAINTAINED ANYMORE
+---
+
+
 Official NortTeam antispam bot. 
 Based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot/) . 
 Special thanks to: AmirSBSS - ParsaAlemi - MohammadTicTic - Armin_Dev - MohammadArak &amp; everyone who helped us in this way.
